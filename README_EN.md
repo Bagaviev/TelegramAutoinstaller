@@ -1,9 +1,9 @@
-=======================DISCLAIMER=======================
+=======DISCLAIMER=======
 
 The script needs admin rights to run.<br/>
 The script itself lives and works in the download directory, so you can simply unpack the entire archive where you downloaded it
 
-=======================INSTRUCTIONS=======================
+=======INSTRUCTIONS=======
 
 1) The /Downloads directory should contain the telegram installer tsetup.blabla.dmg (this is our base that the script will roll)
 
@@ -21,7 +21,7 @@ How can you see if our script got up where you need it (whether it works): cront
 Where the script logs fall, there will be infa whether telegram is installed or already exists or what error: cat /var/mail/[account name]<br/>
 Remove task from scheduler: crontab -r
 
-=======================OFFTOPIC=======================
+=======OFFTOPIC=======
 
 Buy me a coffee: <br/>
 	https://www.buymeacoffee.com/heh101010
